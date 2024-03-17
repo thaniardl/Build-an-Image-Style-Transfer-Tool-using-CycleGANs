@@ -7,7 +7,7 @@
 ## Mentee Info
 
 - **Mentee assignment from IBM Advance AI @ Infinite Learning**
-- **completion of Project: Python For Data Sciences**
+- **completion of Build an Image Style Transfer Tool using CycleGANs from CognitiveClass.ai**
   
 
 
