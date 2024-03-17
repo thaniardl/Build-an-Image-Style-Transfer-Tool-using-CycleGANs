@@ -2,14 +2,14 @@
 
 **Author:** Roxanne Li
 
----
+
 
 ## Mentee Info
 
 - **Mentee assignment from IBM Advance AI @ Infinite Learning**
-- **completion of Build an Image Style Transfer Tool using CycleGANs from CognitiveClass.ai**
+- **completion of Project: Python For Data Sciences**
   
----
+
 
 ## Mentee Information
 
